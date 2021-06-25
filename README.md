@@ -18,6 +18,10 @@
  
  
 ![GitHub Aktivite Grafiği](https://activity-graph.herokuapp.com/graph?username=Cwaty)  
+  
+  
+  [[Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304)](https://discord.com/users/338768594899042304)
+
 
 
 
