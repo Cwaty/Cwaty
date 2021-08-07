@@ -3,7 +3,7 @@
 • Selam arkadaşlar ben Sherwood bazılarınızın bildiği üzerine Tamercan. 1 yıldır düzenli olarak arkadaşlarımla beraber Discord üzerinde oyunlar oynayıp kendi kendi kendine eğlenen biriyim. Discord üzerinde Sherwood#0001 olarak arayarak bulabilirsiniz.
 
 
-<img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty" />
+<img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty"/>
 
 
 <h3> Bulunduğum farklı platformlar <h3>
@@ -23,6 +23,3 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304?theme=light&bg=ffc8ec&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/338768594899042304)
 
 
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
