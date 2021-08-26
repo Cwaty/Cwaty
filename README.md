@@ -16,10 +16,7 @@
  
  <h3> Hesap İstatistiklerim <h3>
  
-## 
- 
-![GitHub Aktivite Grafiği](https://activity-graph.herokuapp.com/graph?username=Cwaty)  
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304?theme=dark&bg=f7c2c2&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/338768594899042304)
+##   
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304?theme=light&bg=f7c2c2&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/338768594899042304)
 
 
