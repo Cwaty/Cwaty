@@ -4,19 +4,12 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty"/>
-
-
-<h3> Bulunduğum farklı platformlar <h3>
  
-##
 <p align="left">
 <a href="https://instagram.com/tamercwn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-0e0101.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/tbegsqrmhkkopy8rtuwxr3x0w" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-0e0101.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
  
- <h3> Hesap İstatistiklerim <h3>
- 
-##   
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304?theme=dark&bg=0e0101&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/338768594899042304)
 
 
