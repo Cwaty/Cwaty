@@ -1,5 +1,18 @@
 ## Herkese selam <img src="https://cdn.discordapp.com/emojis/840877248331382836.gif?v=1" width="30px">
 
+```js
+const Sherwood= {
+    name: "Tamercan",
+    age: 17,
+    from: "Turkey",
+    Discord: "Sherwood#0001",
+    technologies: {
+        backend: ["NodeJS", "express"],
+        database: ["Mysql", "MongoDB"],
+    },
+    languages: ["Javascript" , "Ruby" , "Python" , "Arduino "]
+};```
+
 <img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
  
