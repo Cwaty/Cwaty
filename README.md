@@ -7,7 +7,7 @@ const Sherwood= {
     from: "Turkey",
     Discord: "Sherwood#0001",
     technologies: {
-        backend: ["NodeJS", "express"],
+        backend: ["NodeJS", "VueJS" ,"express"],
         database: ["Mysql", "MongoDB"],
     },
     languages: ["Javascript" , "Ruby" , "Python" , "Arduino "]
