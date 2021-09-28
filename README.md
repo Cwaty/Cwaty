@@ -3,7 +3,7 @@
 ```js
 const Sherwood= {
     name: "Tamercan",
-    age: 17,
+    age: 16,
     from: "Turkey",
     Discord: "Sherwood#0001",
     technologies: {
