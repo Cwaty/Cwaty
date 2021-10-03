@@ -1,18 +1,20 @@
 ## Herkese selam <img src="https://cdn.discordapp.com/emojis/840877248331382836.gif?v=1" width="30px">
 
-```js
-const Sherwood = {
-    name: "Tamercan",
-    age: 16,
-    from: "Turkey",
-    Discord: "Sherwood#0001",
-    technologies: {
-        backend: ["NodeJS", "VueJS" ,"express"],
-        database: ["Mysql", "MongoDB"],
-    },
-    languages: ["Javascript" , "Ruby" , "Python" , "Arduino "]
-};
-```
+``js
+whoisherwood.findOne({user : cwaty} , async (err , res) => {
+if(err) return console.log(err)
+
+if(!res){
+let languages = []
+languages.push["Javascript" , "Ruby" , "Python" , "Arduino "]
+
+const Sherwood = new whoisherwood({
+name: Tamercan,
+age: 16,
+from: Turkey,
+discord: Sherwood#0001
+})})`
+
 
 <img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
