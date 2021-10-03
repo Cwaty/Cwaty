@@ -15,6 +15,8 @@ from: Turkey,
 discord: Sherwood#0001
 })
 Sherwood.save().catch(e => console.log(e))
+  }
+      })
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty"/>
