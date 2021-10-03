@@ -1,6 +1,8 @@
 ## Herkese selam <img src="https://cdn.discordapp.com/emojis/840877248331382836.gif?v=1" width="30px">
 
 ```js
+const whoisherwood = require("github.com/cwaty")
+
 whoisherwood.findOne({user : cwaty} , async (err , res) => {
 if(err) return console.log(err)
 
