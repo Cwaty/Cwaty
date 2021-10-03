@@ -6,7 +6,7 @@ if(err) return console.log(err)
 
 if(!res){
 let languages = []
-languages.push["Javascript" , "Ruby" , "Python" , "Arduino "]
+languages.push(["Javascript" , "Ruby" , "Python" , "Arduino "])
 
 const Sherwood = new whoisherwood({
 name: Tamercan,
