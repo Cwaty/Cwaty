@@ -7,14 +7,16 @@ whoisherwood.findOne({user : cwaty} , async (err , res) => {
 if(err) return console.log(err)
 
 if(!res){
-let languages = []
-languages.push(["Javascript" , "Ruby" , "Python" , "Arduino "])
+let arr = []
+arr.push(["Javascript" , "Ruby" , "Python" , "Arduino "])
 
 const Sherwood = new whoisherwood({
 name: Tamercan,
 age: 16,
 from: Turkey,
-discord: Sherwood#0001
+discord: Sherwood#0001,
+languages: arr
+
 })
 Sherwood.save().catch(e => console.log(e))
   }
