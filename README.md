@@ -10,8 +10,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cwaty.cwaty)
 
 <br />
-
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1068563523757691002/1074113677529194516/githun.gif" width="500" height="320" />
   
 **languages and tools:**  
 
