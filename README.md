@@ -11,7 +11,7 @@
     text-shadow: 0 0 8px #00ffc6;
   ">
     <h2 style="text-align:center; margin-bottom: 25px; font-size: 22px;">
-      🎮 TamerCan's GitHub Stats 🎮
+      GitHub Stats
     </h2>
 
     <div style="margin-bottom: 12px;">⭐ <b>Total Stars:</b> <span style="color:#fff;">44</span></div>
