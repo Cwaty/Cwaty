@@ -1,31 +1,46 @@
 <div align="center">
   <div style="
-    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-    color: #fff;
-    padding: 20px;
-    border-radius: 16px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
-    width: 400px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: left;
+    background: #0d1117;
+    border: 2px solid #00ffc6;
+    border-radius: 20px;
+    box-shadow: 0 0 25px #00ffc6, inset 0 0 15px #00ffc6;
+    width: 450px;
+    padding: 25px;
+    color: #00ffc6;
+    font-family: 'Consolas', 'Courier New', monospace;
+    text-shadow: 0 0 8px #00ffc6;
   ">
-    <h2 style="text-align:center; margin-bottom: 20px;">⚡ TamerCan's GitHub Stats ⚡</h2>
-    <p>⭐ <b>Total Stars:</b> 44</p>
-    <p>🌀 <b>Total Commits (2025):</b> 5</p>
-    <p>🔀 <b>Total PRs:</b> 1</p>
-    <p>❗ <b>Total Issues:</b> 0</p>
-    <p>💻 <b>Contributed (last year):</b> 0</p>
+    <h2 style="text-align:center; margin-bottom: 25px; font-size: 22px;">
+      🎮 TamerCan's GitHub Stats 🎮
+    </h2>
+
+    <div style="margin-bottom: 12px;">⭐ <b>Total Stars:</b> <span style="color:#fff;">44</span></div>
+    <div style="margin-bottom: 12px;">🌀 <b>Total Commits (2025):</b> <span style="color:#fff;">5</span></div>
+    <div style="margin-bottom: 12px;">🔀 <b>Total PRs:</b> <span style="color:#fff;">1</span></div>
+    <div style="margin-bottom: 12px;">❗ <b>Total Issues:</b> <span style="color:#fff;">0</span></div>
+    <div style="margin-bottom: 20px;">💻 <b>Contributed (last year):</b> <span style="color:#fff;">0</span></div>
+
+    <!-- Futuristic progress bar -->
     <div style="
-      margin-top: 15px;
-      background: rgba(255,255,255,0.1);
-      padding: 12px;
-      border-radius: 12px;
-      text-align: center;
-      font-size: 20px;
-      font-weight: bold;
-      letter-spacing: 1px;
+      background: #111;
+      border: 1px solid #00ffc6;
+      border-radius: 10px;
+      height: 20px;
+      position: relative;
+      overflow: hidden;
+      margin-bottom: 15px;
     ">
-      Grade: <span style="color:#4fd1c5;">C+</span>
+      <div style="
+        background: linear-gradient(90deg, #00ffc6, #00aaff);
+        height: 100%;
+        width: 65%;
+        box-shadow: 0 0 10px #00ffc6;
+        animation: load 3s ease-in-out infinite alternate;
+      "></div>
+    </div>
+
+    <div style="text-align:center; font-size: 20px; font-weight: bold;">
+      Rank: <span style="color:#fff;">C+</span>
     </div>
   </div>
 </div>
